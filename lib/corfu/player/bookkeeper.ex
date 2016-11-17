@@ -3,7 +3,7 @@ defmodule Corfu.Player.Bookkeeper do
   @name :bookkkeeper
 
   defmodule State do
-	  defstruct pb: 0, ab: 0, av: nil
+    defstruct pb: 0, ab: 0, av: nil
   end
 
 

@@ -1,5 +1,6 @@
 defmodule Corfu.Player.Protocol do
-	def encode_v(nil) do
+
+  def encode_v(nil) do
     "nil"
   end
 
